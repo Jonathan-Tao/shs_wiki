@@ -2,5 +2,10 @@ import React from 'react';
 
 export default function Hello() {
    
-    return <h1>Hello world!</h1>;
+    return <div>
+        <h2>
+            Hello world!
+        </h2>;     
+    </div>
+
 }
