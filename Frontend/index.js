@@ -1,1 +1,0 @@
-console.log("this is a print commend in js, hello everyone");
