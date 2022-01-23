@@ -37,8 +37,7 @@ yarn-error.log*
 
 
 # compiled output
-/shs-wiki-backend/shs_wiki/dist
-/shs-wiki-backend/node_modules
+/shs-back-end/node_modules
 
 # Logs
 logs
