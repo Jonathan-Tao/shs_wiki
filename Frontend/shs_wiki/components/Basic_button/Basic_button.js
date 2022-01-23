@@ -3,6 +3,6 @@ import { Button, ButtonGroup } from '@chakra-ui/react';
 
 export default function Basic_button() {
   return <div>
-      <Button colorScheme='green'>Button</Button>
+      <Button colorScheme='green' onClick={console.log("fun times")}>Button</Button>
   </div>;
 }
