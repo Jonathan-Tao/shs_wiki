@@ -1,9 +1,12 @@
 import React from 'react';
+import {Text, Box} from '@chakra-ui/react';
+
 
 export default function Julian() {
   return <div>
-        <h1>
-            Hello Julian, go learn backend development! :)
-        </h1>
+    <Box as='span' w='10px' mx = '24'></Box>
+    <Text>
+      Hello Julian, go learn backend development! :)
+    </Text>
   </div>;
 }
