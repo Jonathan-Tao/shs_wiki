@@ -1,6 +1,5 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import Hello from '../components/Hello/Hello'
+import Basic_button from '../components/Basic_button/Basic_button'
 import Julian from '../components/Julian/Julian'
 import styles from '../styles/Home.module.css'
 
@@ -14,8 +13,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Hello />
         <Julian />
+        <Basic_button />
       </main>
 
     </div>

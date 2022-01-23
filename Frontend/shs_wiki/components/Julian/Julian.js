@@ -4,6 +4,6 @@ export default function Julian() {
   return <div>
         <h1>
             Hello Julian, go learn backend development!
-        </h1>;
+        </h1>
   </div>;
 }
